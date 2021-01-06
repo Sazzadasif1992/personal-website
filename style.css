@@ -1,6 +1,5 @@
 body{
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Montserrat', sans-serif;
    
 }
 h1{
@@ -21,7 +20,7 @@ h1{
     width: 100%;
 }
 .link-button{
-    margin: 100px 80px;
+    margin: 100px 5px;
     text-decoration: none;
     background-color: rgb(94, 255, 0);
     padding: 5px 30px;
@@ -44,4 +43,58 @@ h1{
 }
 .image-control{
     width: 100%;
+}
+.extra-s{
+    box-shadow:10px 10px 40px gray;
+}
+.dream-area{
+    color: grey;
+}
+.read-one{
+    box-shadow:10px 10px 40px gray;
+    height: 80%;
+    border-radius: 5px;
+}
+.last-one{
+    clear: both;
+    margin-top: 10%;
+}
+.image-control1{
+    margin-top: 15%;
+ margin-top: 15%;
+ width: 100%;
+}
+.last-one{
+    width: 75%;
+    margin: 5% 10% 5% 10%;
+}
+.last-two{
+    position: relative;
+    margin-top: -18%;
+    margin-left: 10%;
+}
+.last-one h2{
+    margin-left: 5px;
+    display: inline-block;
+    font-size: 45px;
+    color: #fff;
+    
+}
+.last-two a{
+    display: inline-block;
+    margin-left: 45%;
+    color: #e7e4e4;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 2% 3%;
+    background-image: linear-gradient(#FC7662,#F66460);
+}
+    
+   
+.middle-area{
+text-align: center;
+
+}
+#under{
+    margin-top: 5%;
 }
